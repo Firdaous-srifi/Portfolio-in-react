@@ -1,7 +1,10 @@
 🌟 My Portfolio Website 🎨
+
 Welcome to my React Portfolio! 🚀 This website is a showcase of my work and projects, built with React. It’s designed to give you a peek into my skills, experience, and the amazing things I’ve been working on! 😎💻
 
+
 🖥️ Features
+
 ⚡ Fast and Dynamic: Built with React, providing a fast and interactive experience! 🏃‍♂️💨
 🎨 Custom Design: A sleek, modern, and visually appealing design to showcase my work and skills! 🌟
 📱 Fully Responsive: Looks great on any device—whether it’s a mobile, tablet, or desktop! 🌍
