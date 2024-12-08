@@ -6,14 +6,13 @@ import { CiMenuFries } from 'react-icons/ci'
 const Nav = () => {
     const [click, setClick] = useState(false)
     const handleClick = () => setClick(!click)
-    
     const content = 
   <>
     <div className="lg:hidden block absolute top-16 w-full left-0 right-0 bg-slate-900 transition">
         <ul className='text-center text-xl p-20'>
             <Link to="Home" spy={true} smooth={true}>
             <li href="#" className='my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded'>Home</li>
-            </Link> 
+            </Link>
             <Link to="About" spy={true} smooth={true}>
             <li href="#about" className='my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded'>About</li>
             </Link>

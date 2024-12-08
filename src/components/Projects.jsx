@@ -8,9 +8,11 @@ const Projects = () => {
         <img src="src/assets/projects/project1.png" alt="" data-aos="fade-up" height="250" width="250" className='flex items-center justify-center rounded-3xl'/>
         <img src="src/assets/projects/project2.png" alt="" data-aos="fade-up" height="250" width="250" className='flex items-center justify-center rounded-3xl'/>
         <img src="src/assets/projects/project3.png" alt="" data-aos="fade-up" height="250" width="250" className='flex items-center justify-center rounded-3xl'/>
-        <img src="src/assets/projects/project4.png" alt="" data-aos="fade-up" height="250" width="250" className='flex items-center justify-center rounded-3xl'/>
         <img src="src/assets/projects/project5.png" alt="" data-aos="fade-up" height="250" width="250" className='flex items-center justify-center rounded-3xl'/>
         <img src="src/assets/projects/project6.png" alt="" data-aos="fade-up" height="250" width="250" className='flex items-center justify-center rounded-3xl'/>
+        <img src="src/assets/projects/projet7.png" alt="" data-aos="fade-up" height="250" width="250" className='flex items-center justify-center rounded-3xl'/>
+        <img src="src/assets/projects/project8.png" alt="" data-aos="fade-up" height="250" width="250" className='flex items-center justify-center rounded-3xl'/>
+        <img src="src/assets/projects/project4.png" alt="" data-aos="fade-up" height="250" width="250" className='flex items-center justify-center rounded-3xl'/>
       </div>
     </div>
   )
