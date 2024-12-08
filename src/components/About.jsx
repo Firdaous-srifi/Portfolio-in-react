@@ -4,7 +4,7 @@ import 'aos/dist/aos.css';
 const About = () => {
   return (
     <div>
-        <div href="about" className='lg:px-56 px-10 lg:py-0 py-20 text-center gap-5 lg-text-start flex lg:flex-row flex-col-reverse justify-between lg:gap-28 items-center'>
+        <div id="about" className='lg:px-56 px-10 lg:py-0 py-20 text-center gap-5 lg-text-start flex lg:flex-row flex-col-reverse justify-between lg:gap-28 items-center'>
             <div className='h-full lg:py-40 flex flex-col justify-center lg:items-start items-center text-white'> 
             <img  alt="" width={290} height={290} className='rounded border-2 p-1 border-fuchsia-500 img-glow' src='src/assets/aboutme.jpeg'/>
 
