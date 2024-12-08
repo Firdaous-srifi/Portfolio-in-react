@@ -12,19 +12,19 @@ const Nav = () => {
     <div className="lg:hidden block absolute top-16 w-full left-0 right-0 bg-slate-900 transition">
         <ul className='text-center text-xl p-20'>
             <Link to="Home" spy={true} smooth={true}>
-            <li className='my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded'>Home</li>
+            <li href="#" className='my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded'>Home</li>
             </Link> 
             <Link to="About" spy={true} smooth={true}>
-            <li className='my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded'>About</li>
+            <li href="#about" className='my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded'>About</li>
             </Link>
             <Link to="Services" spy={true} smooth={true}>
-            <li className='my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded'>Services</li>
+            <li href="#services" className='my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded'>Services</li>
             </Link>
             <Link to="Projects" spy={true} smooth={true}>
-            <li className='my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded'>Projects</li>
+            <li href="#projects" className='my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded'>Projects</li>
             </Link>
             <Link to="Contact" spy={true} smooth={true}>
-            <li className='my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded'>Contact</li>
+            <li href="#contact" className='my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded'>Contact</li>
             </Link>
         </ul>
     </div>
