@@ -13,6 +13,8 @@ const Projects = () => {
         <img src="src/assets/projects/projet7.png" alt="" data-aos="fade-up" height="250" width="250" className='flex items-center justify-center rounded-3xl'/>
         <img src="src/assets/projects/project8.png" alt="" data-aos="fade-up" height="250" width="250" className='flex items-center justify-center rounded-3xl'/>
         <img src="src/assets/projects/project4.png" alt="" data-aos="fade-up" height="250" width="250" className='flex items-center justify-center rounded-3xl'/>
+
+        <img src="src/assets/projects/project9.png" alt="" data-aos="fade-up" height="250" width="250" className='flex items-center justify-center rounded-3xl'/>
       </div>
     </div>
   )
